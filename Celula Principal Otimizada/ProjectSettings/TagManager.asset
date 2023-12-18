@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Robot
+  - tagJoint
+  - tagJoint1
+  - tagJoint2
+  - tagJoint3
+  - tagJoint4
+  - tagJoint5
+  - tagJoint6
+  - AroDeSelecao
+  - Pickable
+  - MQTT_ReceiverTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Lamps
+  - Water
+  - UI
+  - RobotLay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
